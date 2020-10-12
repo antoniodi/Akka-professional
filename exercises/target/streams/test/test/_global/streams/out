@@ -1,0 +1,18 @@
+[debug] javaOptions: Vector()
+[debug] Forking tests - parallelism = false
+[debug] Create a single-thread test executor
+[debug] Runner for org.scalatest.tools.Framework produced 1 initial tasks for 1 tests.
+[debug]   Running TaskDef(com.lightbend.training.coffeehouse.CoffeeHouseAppSpec, sbt.ForkMain$SubclassFingerscan@3536b4e5, false, [SuiteSelector])
+[info] CoffeeHouseAppSpec:
+[info] Calling argsToOpts
+[info] - should return the correct opts for the given args
+[info] Calling applySystemProperties
+[info] - should apply the system properties for the given opts
+[debug]     Produced 0 nested tasks and 2 events.
+[info] Run completed in 902 milliseconds.
+[info] Total number of tests run: 2
+[info] Suites: completed 1, aborted 0
+[info] Tests: succeeded 2, failed 0, canceled 0, ignored 0, pending 0
+[info] All tests passed.
+[debug] Passed tests:
+[debug] 	com.lightbend.training.coffeehouse.CoffeeHouseAppSpec
